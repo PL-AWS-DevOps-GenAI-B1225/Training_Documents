@@ -1,0 +1,385 @@
+DevOps / Multi-Cloud(AWS & Azure) / Gen-AI 
+
+Start Date: 26th Nov. 2025
+
+Time: 7:30AM-9:30AM
+
+######################
+Day 1: 26th Nov. 2025
+######################
+
+Introduction: Day1 & Day2
+
+DevOps with Cloud Resource!
+
+AWS Module --> 
+
+FAQs 
+
+Interview based Q&A :
+
+Lab Requirements:
+
+Devops : -- 12 - 15 Services & Tools
+
+Cloud Platform -> AWS Cloud - Create a Free Tier Account 6-12 Month
+
+AWS - IAAS,PAAS --> US --> Azure - SAAS,PAAS,IAAS -> 
+
+Multi-Cloud AWS& Azure.
+
+AWS Cloud --> 
+
+Azure 
+
+DevOps
+
+
+Introduction to Modules ::::
+
+AWS Cloud --> 
+
+Network ==>
+
+	DevOps:
+	
+	
+	Network security
+	
+	IAC Tools Terraform/CloudFormation
+	
+	Jenkins
+
+
+######################
+Day 2: 27th Nov. 2025
+######################
+
+DevOps: Modules :
+
+	Linux
+	Git/GitHub
+	Jenkins 
+	Docker
+	Kubernetes 
+	Ansible 
+	Terraform 
+	Prometheus 
+	Grafana 
+	Python 
+	
+	AWS :
+	
+		ECS 	--> Docker
+		ECR 	--> DockerHub
+
+	Training Pre-Requisites :
+	
+		- Create a GitHub Account 
+			https://github.com/				# Version the Application Source Code
+				
+				- Need Active Email_ID
+				
+		- Create a DockerHub Account 
+			https://hub.docker.com/			# Version the Application Container Images
+			
+				- Need Active Email_ID
+			
+		- Create an AWS Free Tier Account :
+			https://aws.amazon.com/console/
+			
+			https://docs.aws.amazon.com/accounts/latest/reference/manage-acct-creating.html
+			
+			- Create AWS Free Tier Account - 6 - 12 Months
+			
+				- Active Email_ID
+				- Active Mobile_Number
+				- Active Credit/Debit Card(Enabled with International Transaction)
+				
+				- PAN Card Number
+				
+	
+		- Install Visual Studio Code - IDE on Local Machine
+			https://code.visualstudio.com/download
+			
+				- Install Python Extension for VS Code 
+			
+		
+		- Install Python on Local Machine
+			https://www.python.org/downloads/
+				IDE - IDLE - Python shell Prompt 
+				
+				PyCharm IDE ***Option
+				
+
+	Introduction to Cloud Computing :::
+	
+		Provision/Create AWS Resources :
+		
+			- Using AWS Console (Manual Process) ***
+			
+			- AWS CLI ***
+			
+			- IAC(Infra-Structure as Code) Tools like CloudFormation/Terraform *****
+			
+			- Using AWS SDK Libraries in Python **
+			
+######################
+Day 1: 1st Dec. 2025
+######################
+
+	Introduction to Cloud Computing :::
+	
+		On-Premise Data Centers 
+	
+		IT Service	--> Online E_Commerce Application - Web Service like www.amazon.com
+		
+		IT Infra-Structure :
+		
+			- Compute Services 
+			- Storage Services
+			- DataBase Services 
+			- Networking Services 
+			- Security Services
+			
+			- Ensure High Availability, Security, Reliablity
+			
+			Core Linux Administration ==> Linux Servers			
+			
+			Create a Account with any Cloud Service Provider - AWS/Azure/GCP/Digital Ocean
+			
+			$200 USD 
+			
+			Linux Servers
+			
+		People who haven't used Cloud Services :::
+		
+		
+		Gmail Account 
+			- google Drive - 15GB ==> Public Cloud!
+		
+		facebook
+		
+		Netflix 
+		
+		
+	Cloud Solutions Architect ==> 
+	
+		- Public Cloud / Private Cloud 
+			
+			
+	Hybrid Environment :
+	
+		--> AWS Cloud 
+		
+		-> Cloud Migration 
+		
+		-> Application Migration 30 - 40 Year Old Applications
+		
+			Monolith Applications 
+			
+				- All the light weight application components 
+				
+			DevOps ::: 
+			
+			Created a Application Component
+			
+				Deploy this Component in both the Infra-Structure using DevOps Workload
+				
+				
+	Hybrid - Multi-Cloud Platform 
+	
+		On-Premise,AWS,Azure 
+		
+		DevOps at Enterprise Level
+			
+			
+			
+			
+			
+			
+	GitHub Repo. ==> 
+
+	Google Drive link ==> recordings
+	
+	AWS - DevOps Services
+	
+	
+	
+	
+	DevOps Tools :
+	
+		- DevOps Process/Stratiges 
+	
+		- Open-Source DevOps Tools 
+			jenkins,docker,kubernetes,ansible,terraform,prometheus,grafana,github
+			
+		- Managed Services DevOps
+			- AWS - 
+			- Azure - Azure Repo, Az Pipelines
+			- GCP - 
+			
+
+
+	Introduction to AWS Cloud :::
+	
+	
+			
+	Develop web applications 
+	
+		- Dev Environment		==> Server --> Mac OS / Ububtu OS / Windows
+		
+		- Test Environment		==> Server 
+		
+		- Target Environment
+		
+	AWS : 
+	
+		- Compute Services 
+		- Database 
+		- Networking
+		- Storage
+	
+	
+	Environments :
+	
+	
+		On-Premise Environments 					=====>				Cloud Environments
+			- Compute Services 
+			- Database 
+			- Networking
+			- Storage	
+			
+	
+	Lab :
+	
+		AWS Account 
+		github Account 
+			
+			
+			
+######################
+Day 2: 2nd Dec. 2025
+######################		
+
+	- AWS Cloud Services :::
+	
+	
+		SAAS => 
+		
+			SLA => AWS & Business
+			
+				=> Shared Responsible 
+				
+	
+	Training Pre-Requisites :
+	
+		- Create a GitHub Account 
+			https://github.com/				# Version the Application Source Code
+				
+				- Need Active Email_ID
+				
+			
+		- Create an AWS Free Tier Account :
+			https://aws.amazon.com/console/
+			
+			https://docs.aws.amazon.com/accounts/latest/reference/manage-acct-creating.html
+			
+			- Create AWS Free Tier Account - 6 - 12 Months
+			
+				- Active Email_ID
+				- Active Mobile_Number
+				- Active Credit/Debit Card(Enabled with International Transaction)
+				
+				- PAN Card Number
+				
+				
+		- Create a DockerHub Account 
+			https://hub.docker.com/			# Version the Application Container Images
+			
+				- Need Active Email_ID
+
+		- Install Visual Studio Code - IDE on Local Machine
+			https://code.visualstudio.com/download
+			
+				- Install Python Extension for VS Code 
+				
+		- Install Python on Local Machine
+			https://www.python.org/downloads/
+				IDE - IDLE - Python shell Prompt 
+				
+				PyCharm IDE ***Option				
+
+	
+	- IAC Tools - Terraform/CloudFormation
+	- AWS Cli 
+	- SDK - using Python Libraries
+			
+			
+				
+	- AWS Cloud Services :::
+
+		Global presence of AWS :
+	
+			https://aws.amazon.com/about-aws/global-infrastructure/
+			
+			https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/
+			
+			https://aws.amazon.com/free/?gclid=CjwKCAiAlrXJBhBAEiwA-5pgwmgcDbdQv3Vu1diHUWNr3jTtpU24APp-CZ0tnPXHT1-H8RtZ2JNO6hoC0y0QAvD_BwE&trk=721c238e-1a0b-41ae-8f6e-8d8793387c8e&sc_channel=ps&ef_id=CjwKCAiAlrXJBhBAEiwA-5pgwmgcDbdQv3Vu1diHUWNr3jTtpU24APp-CZ0tnPXHT1-H8RtZ2JNO6hoC0y0QAvD_BwE:G:s&s_kwcid=AL!4422!3!785574063527!e!!g!!aws!23291338728!189486861255&gad_campaignid=23291338728&gbraid=0AAAAADjHtp8BKfdYsWTAwQiI6lHKTGL0p
+		
+	
+	- Create AWS Account.
+	
+	- Login to AWS Console using the root Account ID(Email_ID)
+		- Root Users are the Account Owner
+		
+			- Check the AWS Region
+		
+		
+	- As a root user, create IAM User profiles
+	
+		- User Authentication -> Decides, who can access?
+		
+		- User Authorization  -> Decides, What can be accessed?
+		
+		
+	- IAM Service ===> Identity and Access Management Service
+	
+		- By Default, IAM Service is based on RBAC - Role Based Access Control. 
+		
+		
+			- User == user1(Developer) --> Query the DataBase 
+						   (DBA)	   --> Create DB, Configure DB, Query the DataBase 
+						   
+			- user group 
+			
+			- IAM Role (Policy)
+			
+			- IAM Policies 
+			
+######################
+Day 3: 4th Dec. 2025
+######################	
+
+	Working with AWS IAM Service :::
+	
+		https://docs.aws.amazon.com/IAM/latest/UserGuide/id_users_create.html
+			
+	EC2 Services :
+	
+	
+	Authentication Modes :::
+	
+		- Password Based Authentication (MFA)				Go to playstore and download Google Authenticator App
+		
+		- Token Based Authentication	-	Access Token
+														Access Key: asdfasdfasfdsdfQBIRK
+														Secret Key: asdfasfasfasdfsZb8
+		- Key Based Authentication
+			- Public Key & Private Keys 
+			
+		- Passwordless Authentication
+		
+		
+	IAM Role: plec2-s3-role1
+	
