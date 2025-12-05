@@ -383,3 +383,130 @@ Day 3: 4th Dec. 2025
 		
 	IAM Role: plec2-s3-role1
 	
+
+			
+######################
+Day 4: 5th Dec. 2025
+######################	
+
+	Elastic Compute Cloud Service ::::
+	
+	Virtual Machine :::
+	
+	
+	AWS Cloud Service :
+	
+		Computing Device!
+	
+
+	
+	
+	root: 
+	
+	
+	users - group1 ==> app_Team1
+	
+	users - group2 ==> test_Team1
+	
+	
+	Launch EC2 Instance :
+	
+	Linux Machine - Ubuntu 
+	
+	Operating System :
+	
+	
+		Setup the DevOps Tools : 
+			- Linux OS 
+			
+			- Windows OS 
+			
+			- Mac OS 
+			
+			
+		DevOps Tools:
+		
+		Testing :
+		
+		Production Environments :
+		
+		CPU - 
+		
+		RAM -
+		
+		WAS - Nginx/Tomcat
+		
+		DBase Server - Oracle/MySQL
+		
+		External Storage for Applications 
+		
+		
+		
+	
+		1 VM ==> 750 Hrs/Month 
+		
+		10 VMs ==> 75 Hrs/Month 
+		
+		Monitor the Resource usages :::
+		
+		Billing Dashboard :::
+		
+		
+	Billing Management ::::
+
+	Web Servers: Tomcat - 8080 / Nginx - 80 
+	
+	Lvl 1 - Demo on EC2 Instances :::
+	
+	
+	To Launch EC2 Instances :
+	
+		- AWS Console 
+		
+		- AWS Cli 
+		
+		- IAC Tools - CloudFormation/Terraform 
+		
+		- AWS SDK
+	
+	1. Launch using AWS Console :
+	
+		- Connect to EC2 Instance 
+		
+			- Connection Parameters :
+			
+				- Host Name 		--> Public IP Address (Linux Machine)
+				
+				- Port 				--> 22
+				
+				- User Name 		--> ubuntu
+				
+				- User Credentials 	--> 	- Key Based Authentication
+				
+						- Public Key 
+						- Private Key 
+						
+			
+			- How to Connect to the Remote Servers :
+			
+				- EC2 Instance connect Option - using Web Browser 
+				
+				- SSH Agents : (Local Windows Users install)
+					
+					- Putty /
+					
+					- MobaXterm  						# https://mobaxterm.mobatek.net/download-home-edition.html
+														# Download Installer Edition 
+														# Go to Downloads Folder 
+														# Right Click & Extract 
+														# *.exe 
+					
+				- Terminals :	(Local Linux / Mac Users)
+				
+				
+				
+				
+				
+					
+				
+			
