@@ -998,8 +998,64 @@ Day 12: 18th Dec. 2025
 	-> Projects -> 
 	
 
-Next ::: Azure Cloud - AZ104
 
-Next ::: DevOps using Open-Source Tools 
+#######################
+Day 13: 23rd Dec. 2025
+#######################	
+
+3-Tier Application :		--> E_Commerce Portal 
+
+	--> Front-End 
+	--> Application 				==> Add_to_cart --> queue -- SQS .
+											--> Func. -- Executed using Lambda Service
+											
+											--> 1--->100 ==> send email notification to the user
+												--> SNS -
+													
+	--> Data Base Layer 
+	
+	
+	- Data Base Service :::
+		- AWS Aurora & RDS -- SQL 
+	
+	- SQS, SNS 
+	
+	- AWS Cloud ::: 
+	
+		- Monitoring Service - AWS DevOps Guru --- Based on AI-ML Model 
+	
+
+- Project Problem Statement ::::
+
+
+	
+Project : Set-up Highly Available and Secured AWS Infra-Structure to Deploy 3-Tier Architecture
+
+
+Phase 1: Design the Architecture based on the AWS Services 
+
+List Services :::
+	
+Service				Role in Architecture
+			
+IAM					Secure access & roles
+VPC					Network isolation
+Public Subnet		Internet-facing tier
+Private Subnet		Secure backend tier
+EC2					Application server
+RDS					Persistent relational DB
+SNS					Email notifications
+SQS					Async message queue
+Lambda				Background processing
+S3					Object storage
+CloudWatch			Monitoring
+
+ALB	& ASG			Load Balancing(Multi-Az) & High Availability
+
+
+Application Architecture :
+
+Infra Architecture :
+	- PAAS / IAAS / SAAS
 
 			
